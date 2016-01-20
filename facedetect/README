@@ -1,0 +1,3 @@
+Exemplo de deteccao de face do OPenCV. Apenas copiei o facedetect.cpp do opencv/samples/cpp pra ca. O Makefile eu copiei do opencv/samples/cpp/example_cmake.
+
+Compilou.
